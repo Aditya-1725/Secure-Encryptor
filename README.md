@@ -16,8 +16,8 @@ It uses AES-128 (CBC mode) with PBKDF2 for secure text and file encryption.
 
 ##  Setup  
 
-git clone https://github.com/your-username/your-repo.git  
-cd your-repo  
+git clone https://github.com/Aditya-1725/Secure-Encryptor.git
+cd Secure Encryptor  
 
 python -m venv venv  
 venv\Scripts\activate   (Windows)  
